@@ -14,3 +14,8 @@ Fiquem à vontade para deixar comentários e opiniões construtivas. Muito obrig
 El siguiente caso analiza dos bases de datos, obtenidas del servicio de chatbot que proveyó la empresa Take Blip en el Carnaval de Belo Horizonte de 2018. El objetivo es responder a un conjunto de preguntas estratégicas para sacar conclusiones de valor que permitan mejorar la organización general del evento (a cargo del municipio) y la atención y provisión de informaciones al usuario del chat. <br>
 Se desarrollaron un [análisis en Python](https://github.com/marcosdiezw/BH_carnival_chatbot/blob/main/BH_carnival_chatbot.ipynb) y un [tablero en Power BI](https://github.com/marcosdiezw/BH_carnival_chatbot/blob/main/Analise_CarnavalBH_Marcos_Diez.pbix). En ambos archivos se encuentran las preguntas estratégicas y las conclusiones. El foco está puesto en el estudio y la interpretación de datos de texto (strings). <br>
 Siéntanse libres para dejar comentarios y opiniones constructivas. Muchas gracias.
+<br>
+<br>
+<p align="center">
+  <img src="carnival_BH.png" >
+</p>
